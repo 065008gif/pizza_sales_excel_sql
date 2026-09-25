@@ -55,11 +55,14 @@ Data/Power Query, PivotTables, charts, dashboard layout).
 ---
 
 ## 📁 Repo contents
-├── pizza_sales.csv # Source transaction data
-├── pizza_sales_queries.sql # MySQL queries answering every KPI/chart requirement
-├── Pizza sales excel cleaning and dashboard.xlsx # Cleaned data, calc sheets, and final dashboard
-├── business_requirements.txt # KPI & chart requirements this project satisfies
+
+```
+├── pizza_sales.csv                               # Source transaction data
+├── pizza_sales_queries.sql                       # MySQL queries answering every KPI/chart requirement
+├── Pizza sales excel cleaning and dashboard.xlsx  # Cleaned data, calc sheets, and final dashboard
+├── business_requirements.txt                     # KPI & chart requirements this project satisfies
 ├── screenshots/
-│ ├── dashboard.png # Final Excel dashboard
-│ └── mysql_data_load.png # Excel connecting to the MySQL database
+│   ├── dashboard.png                             # Final Excel dashboard
+│   └── mysql_data_load.png                       # Excel connecting to the MySQL database
 └── README.md
+```
